@@ -1,0 +1,23 @@
+.body_backgorund {
+    background-color:purple;
+    background-position: center;
+    
+  }
+
+  h1
+  {
+      color:yellow; 
+      font-size: 40px;
+      font-family:'Vibur', cursive ;
+  }
+  
+  #myCanvas
+  {
+      background-color: white; 
+      border-style:ridge;
+  }
+  
+  span
+  {
+      font-size: 20px;
+  }
